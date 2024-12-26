@@ -11,7 +11,7 @@ Liked it? You can show your support with a STAR(⭐).
 
 > I am an independent educator and open-source enthusiast who creates meaningful projects to teach programming on my YouTube Channel. You can support my work by [sponsoring me on GitHub](https://github.com/sponsors/atapas).
 
-## Check out the video tutorial
+## 📹 Check out the video tutorial
 > Quality content takes time and effort. If you appreciate that, please consider [Subscribing to my YouTube Channel](https://youtube.com/tapasadhikary). Thanks ❤️.
 
 Here is the step-by-step video tutorial to build this project. You will learn the following:
@@ -22,9 +22,9 @@ Here is the step-by-step video tutorial to build this project. You will learn th
 - 🟢 How to use Webhook in Next.js?
 - 🟢 How to use the React 19 Hook for better management of action output.
 
-[![Next.js plus Webhook](./banner.png)](https://youtu.be/6h-y1aRzvhY "Video")
+[![Next.js plus Webhook](./Nextjs-discord.png)](https://youtu.be/6h-y1aRzvhY "Video")
 
-## Run it Locally
+## 🏃 Run it Locally
 
 - Follow the above video for the Discord Integration
 - Clone or fork the repo
