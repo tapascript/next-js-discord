@@ -1,8 +1,8 @@
-# Next.js and Discord Server Integration
+# Next.js and Discord Server Integration Using Webhook 🔌
 
-This repository contains the code examples of building project with Next.js and Discord Server Webhook.
+This repository contains the code examples of building projects with Next.js and Discord Server Webhook.
 
-## Cheeck out the video tutorial
+## Check out the video tutorial
 
 TBA
 
