@@ -2,9 +2,17 @@
 
 This repository contains the code examples of building projects with Next.js and Discord Server Webhook.
 
-## Check out the video tutorial
+## 🫶 Support
+Liked it? You can show your support with a STAR(⭐).
 
-TBA
+> Many Thanks to all the `Stargazers` who have supported this project with stars(⭐)
+
+### Sponsor My Work
+
+> I am an independent educator and open-source enthusiast who creates meaningful projects to teach programming on my YouTube Channel. You can support my work by [sponsoring me on GitHub](https://github.com/sponsors/atapas).
+
+## Check out the video tutorial
+> Quality content takes time and effort. If you appreciate that, please consider [Subscribing to my YouTube Channel](https://youtube.com/tapasadhikary). Thanks ❤️.
 
 ## Run it Locally
 
@@ -15,11 +23,3 @@ TBA
 
 The app will be available on `http://localhost:3000` by default.
 
-## 🫶 Support
-Liked it? You can show your support with a STAR(⭐).
-
-> Many Thanks to all the `Stargazers` who have supported this project with stars(⭐)
-
-### Sponsor My Work
-
-> I am an independent educator and open-source enthusiast who creates meaningful projects to teach programming on my YouTube Channel. You can support my work by [sponsoring me on GitHub](https://github.com/sponsors/atapas).
