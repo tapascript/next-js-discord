@@ -26,10 +26,9 @@ Here is the step-by-step video tutorial to build this project. You will learn th
 ## 🏃 Run it Locally
 
 - Clone or fork the repo
-- Follow the above video for the Discord Integration
 - Install dependencies using `npm install` or `yarn install`
 - Create an environment variable with the key `DISCORD_WEBHOOK_URL` and value as your Discord webhook URL.
 - Run it using `npm run dev` or `yarn dev`
 
-The app will be available on `http://localhost:3000` by default.
+The app will be available on `http://localhost:3000` by default. If you face any issues, follow the above video for the Discord Integration
 
